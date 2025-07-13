@@ -1,2 +1,2 @@
 # python-applications
-These are python practice applicatopms
+These are python practice applications
